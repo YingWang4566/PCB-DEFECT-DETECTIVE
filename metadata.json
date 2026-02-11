@@ -1,0 +1,4 @@
+{
+  "name": "PCB Defect Detective",
+  "description": "A professional EDA-style web application for detecting PCB defects using Multimodal AI (Claude 3.5 Sonnet)."
+}
